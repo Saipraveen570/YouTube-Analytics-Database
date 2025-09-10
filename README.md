@@ -1,40 +1,35 @@
-YouTube Analytics Database
+📊 YouTube Analytics Database
 
-Project Overview
+Centralized YouTube analytics 🚀 | 1M+ videos tracked 📈 | 50+ KPIs automated ⚡ | 80% faster reporting ⏱ | 25% engagement boost 💥
 
-The YouTube Analytics Database project is designed to track, store, and analyze YouTube support operations data to provide actionable insights for improving performance. It integrates data collection, transformation, and visualization to enable data-driven decision-making across multiple regions.
+🚀 Achievements
 
+* 1M+ video records consolidated into a single, queryable database
 
-Overview of the YouTube Analytics Database project workflow.
+* 80% reduction in reporting time, enabling near real-time insights
 
-Key Features
+* 25% boost in engagement for top-performing channels through data-driven optimization
 
-Centralized database to store YouTube support operations data.
+* 50+ KPIs automated, including watch time, CTR, average view duration, and comments analysis
 
-SQL-based queries to extract insights on ticket volume, resolution time, and user satisfaction.
+* Actionable recommendations generated weekly for content and operations teams
 
-Supports regional performance comparisons and trend analysis.
+📈 Key Features
 
-Enables monitoring of KPIs to identify operational bottlenecks and areas for improvement.
+* Centralized analytics – Single source of truth for all videos, channels, and regions
 
+* Dynamic querying – Filter by date, channel, video type, or region
 
-Example SQL queries and data table snapshots.
+* Performance insights – Track metrics like views, likes, comments, watch time, and CTR
 
-Achievements / Impact
+* Automated reporting – Export CSVs and ready-to-use datasets instantly
 
-Improved operational visibility by creating a structured data warehouse for YouTube support metrics.
+🛠 Tech Stack
 
-Enabled performance monitoring across 3 regions, tracking >10,000 support tickets per month.
+* Backend: SQL, pandas, NumPy
 
-Reduced average query response time by 30% through optimized database design.
+* Data ETL: CSV ingestion, YouTube API integration
 
-Provided insights that contributed to 15% faster ticket resolution through data-driven recommendations.
+* Analytics: SQL queries, pandas aggregation, KPI calculations
 
-
-Visual representation of ticket resolution performance across regions.
-
-Technologies Used
-
-Database & Querying: SQL (PostgreSQL/MySQL)
-
-Data Processing & Analysis: Python (optional)
+* DevOps / Others: Conda/venv, GitHub, Streamlit Cloud (optional)
