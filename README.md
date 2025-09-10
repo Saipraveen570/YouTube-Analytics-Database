@@ -26,10 +26,10 @@ Centralized YouTube analytics 🚀 | 1M+ videos tracked 📈 | 50+ KPIs automate
 
 🛠 Tech Stack
 
-* Backend: SQL, pandas, NumPy
+* Backend: SQL
 
 * Data ETL: CSV ingestion, YouTube API integration
 
-* Analytics: SQL queries, pandas aggregation, KPI calculations
+* Analytics: SQL queries, KPI calculations
 
-* DevOps / Others: Conda/venv, GitHub, Streamlit Cloud (optional)
+* DevOps / Others: GitHub, Streamlit Cloud (optional)
